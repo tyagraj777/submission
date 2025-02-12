@@ -1,0 +1,10 @@
+torch==2.0.1
+torchvision
+transformers
+diffusers
+accelerate
+clip-by-openai
+pillow
+opencv-python
+scipy
+numpy
